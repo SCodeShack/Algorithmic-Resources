@@ -33,7 +33,7 @@ Topics
 
 
 
-## Binary Search and Ternary Search
+## Binary and Ternary Search
 ---
 *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
 
@@ -51,8 +51,7 @@ Topics
  	- [A2oj](http://a2oj.com/Category.jsp?ID=40)
  	- [Codechef](https://discuss.codechef.com/tags/binarysearch/)
 
-## Dynamic Programming
----
+## Dynamic Programming for noobs
 *Used to solve questions which can be broken down into smaller sub problems.It involves the technique of saving the result of a problem for future reference.*
 
  - Theory
